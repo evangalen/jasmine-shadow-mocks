@@ -1,2 +1,2 @@
-jasmine-mock-creator
+jasmine-shadow-mocks
 ====================
